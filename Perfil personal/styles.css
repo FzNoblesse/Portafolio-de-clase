@@ -1,0 +1,17 @@
+body{
+    background-image: url(image.jpeg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.Titulo{
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    color: violet;
+}
+.Gustos{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 150%;
+    text-align: center;
+}
