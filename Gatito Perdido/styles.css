@@ -1,0 +1,33 @@
+body{
+    background-image: url(fondo.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.GatitoPerdido {
+    text-align: center;
+    color: red;
+    font-size: 40px;
+}
+.Nombre {
+    text-align: center;
+    font-size: 40px;
+}
+.Gratificacion{
+    text-align: center;
+    font-size: 40px;
+}
+.Gatito{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ZonaPerdido {
+    text-align: center;
+    font-size: 40px;
+}
+.Contacto{
+    text-align: center;
+    font-size: 40px;
+}
